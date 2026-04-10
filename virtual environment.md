@@ -33,6 +33,8 @@ source example/bin/activate
 
 - **step 5** now you're done! yay!
 
+
+
 If you still have doubts you're in a virtual environment, you should see something like this in your terminal.
 
 <img width="575" height="33" alt="image" src="https://github.com/user-attachments/assets/3e096e6c-65e7-4b15-aa7f-b63d7a04c5db" />
@@ -40,6 +42,10 @@ If you still have doubts you're in a virtual environment, you should see somethi
 The grey text at the most left should be your virtual environment name!
 
 
-If you want **to leave** the virtual environment then you must **type deactivate**.
+If you want **to leave** the virtual environment then you must **type:**
 
-Typing that should remove the grey text on the left!
+```
+deactivate
+```
+
+Typing that should remove the grey text on the left, and let you exit the env!
